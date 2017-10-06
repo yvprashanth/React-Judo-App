@@ -1,7 +1,7 @@
 const athletes = [
   {
     id: 'ilias-iliadis',
-    name: 'Ilias Iliadis',
+    name: 'Prashanth Yerramilli',
     country: {
       id: 'gr',
       name: 'Greece',
